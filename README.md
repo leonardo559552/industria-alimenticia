@@ -29,7 +29,7 @@ O sistema aqui proposto funciona como uma **To-Do List interativa**, oferecendo 
     - Cadastro de Tarefas  
     - Gerenciamento de Tarefas  
 
-## 🗃️ Estrutura do Banco de Dados
+## 🗃️ Estrutura do Banco de Dados 
 **Tabelas principais:**
 1. **usuarios**
    - id_usuario (PK)  
